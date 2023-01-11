@@ -34,7 +34,7 @@
       "repeatable": true,
       "component": "menu.menu-link"
     },
-    "text": {
+    "footer": {
       "type": "richtext",
       "required": true
     }
